@@ -47,3 +47,8 @@ console.log(Number(text));             //output: NaN
 let pi = 3.1416;
 console.log(pi.toFixed(2));           //output: 3.14
 console.log(typeof pi.toFixed(2));    //output: string
+
+// string & subtraction:
+let num = 100;
+let str = "50";
+console.log(num - str);             // output: 50 
